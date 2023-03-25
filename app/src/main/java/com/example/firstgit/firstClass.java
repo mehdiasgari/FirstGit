@@ -6,8 +6,6 @@ public class firstClass {
     // this is for pull test and branch test
     // this isi for testing editing
 
-    //testing merge
-
-    // and another change
+    //testing merg
 
 }
